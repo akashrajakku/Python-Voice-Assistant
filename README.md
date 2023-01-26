@@ -1,5 +1,4 @@
-# mini-project
-voice assistant
+# VOICE ASSISTANT
 ** Meet Jarvis, my voice assistant made using python and its libraries
 it can perform a lot of function:-
 * Will greet you on the basis of time (morning,noon,evening...suitable greetings at time)
